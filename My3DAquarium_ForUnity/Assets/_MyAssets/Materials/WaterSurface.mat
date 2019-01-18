@@ -120,7 +120,7 @@ Material:
     - _WaterSmoothness: 3.8
     - _WaterSpecular: 0
     - _WaveHeight: 0.51
-    - _WaveSpeed: 0.24
+    - _WaveSpeed: 0.31
     - _WavesAmount: 8.87
     - _WavesAmplitude: 0.1
     - _ZWrite: 1
